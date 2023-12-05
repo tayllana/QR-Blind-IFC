@@ -11,7 +11,7 @@ Download do APP: https://ai2.appinventor.mit.edu/b/5mktn
 ![image](https://github.com/tayllana/QR-Blind-IFC/assets/53586589/bdf93ab3-4272-4e6b-838c-8108052f2e99)
 
 
-Este projeto foi apresentado na SEPETEC (Seminário de Ensino de Pesquisa e Extensão: Fortalecendo o Conhecimento Científico e Tecnológico) aprovado, certificado e publicado em formato de livro digital pela ISBN (https://periodicos.ifsc.edu.br/index.php/sepetec-rau/article/view/3658/4700) 
+Este projeto foi apresentado na SEPETEC (Seminário de Ensino de Pesquisa e Extensão: Fortalecendo o Conhecimento Científico e Tecnológico) aprovado, certificado e publicado em formato de livro digital pela ISBN (https://periodicos.ifsc.edu.br/index.php/sepetec-rau/index) 
 
 https://www.youtube.com/watch?v=tXPrHbbHZB8&list=PLaCv20h41oJJPDy7vuAY-_78TI6_VZODW&index=13
 ![image](https://github.com/tayllana/QR-Blind-IFC/assets/53586589/feceb342-9762-436c-a17c-b16979aa04e1)
